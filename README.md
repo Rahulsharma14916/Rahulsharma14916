@@ -24,9 +24,9 @@ Software & Simulation: MATLAB, LTSpice
 
 📫 Connect With Me
 
-📌 [Instagram] (https://www.instagram.com/rahulshrmaxx/)
+📌 [Instagram](https://www.instagram.com/rahulshrmaxx/)
 
-📌 [LinkedIn] (https://www.linkedin.com/in/rahul-sharma-7b38832b0/)
+📌 [LinkedIn](https://www.linkedin.com/in/rahul-sharma-7b38832b0/)
 
 Let's build something awesome together! 🚀✨
 
