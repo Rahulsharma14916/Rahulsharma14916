@@ -16,7 +16,7 @@ Observing Mars & Astronomy Research 🔭
 
 Embedded Systems & IoT: ARM, RISC-V, MIPS32, ESP32, Raspberry Pi
 
-Programming: C, C++, Python, Verilog
+Programming: C, C++, Python, Verilog, x86 assembly 
 
 Tools & Frameworks: Arduino IDE, OpenRocket, TinkerCAD
 
