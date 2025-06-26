@@ -6,7 +6,7 @@ I'm an engineering student at IIT Ropar, passionate about digital and analog ele
 
 🔭 Current Endeavors
 
-Upcoming Summer intern @ IIT Roorkee 🏫
+Summer intern @ IIT Roorkee 🏫
 
 Exploring RISC-V & MIPS32 Architectures 🖥️
 
