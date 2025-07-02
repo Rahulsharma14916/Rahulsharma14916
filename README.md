@@ -2,7 +2,7 @@ Hi there! 👋
 
 🚀 About Me
 
-I'm an engineering student at IIT Ropar, passionate about digital and analog electronics, computer architecture, and space technology.I enjoy guiding students and fostering a strong technical community. I also actively contribute to the rocketry team at IIT Ropar!
+I'm an engineering student at IIT Ropar, passionate about digital and analog electronics, computer architecture, finance and space technology(Yes i have so many subject hobbies :) ).I enjoy guiding students and fostering a strong technical community. I also actively contribute to the rocketry team at IIT Ropar!
 
 🔭 Current Endeavors
 
@@ -20,7 +20,7 @@ Programming: C, C++, Python, Verilog, x86 assembly
 
 Tools & Frameworks: Arduino IDE, OpenRocket, TinkerCAD
 
-Software & Simulation: MATLAB, LTSpice
+Software & Simulation: MATLAB, LTSpice, Cadense Virtuoso, QUCS
 
 📫 Connect With Me
 
